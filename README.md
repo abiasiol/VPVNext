@@ -3,7 +3,7 @@ Interactive dashboard for volleyball data.
 
 This is an app developed with [**Dash**](https://dash.plotly.com/) and deployed on [**Heroku**](https://www.heroku.com/home).
 
-**Link to the app: **
+**Link to the app: https://www.vpvnext.volleydataverse.com/**
 
 <br>
 
